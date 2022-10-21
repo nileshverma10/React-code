@@ -1,0 +1,29 @@
+.navbar {
+    height: 50px;
+    width: 100%;
+    background-color: greenyellow;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    
+  }
+  .navbar ul {
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    gap: 10px;
+  }
+  .navbar ul li {
+    list-style: none;
+  }
+  .navbar ul li a {
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+  }
+
+  .navbar ul li a:hover {
+    background-color: pink;
+    padding: 5px 5px;
+    color: white;
+  }
+  
