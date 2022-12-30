@@ -1,0 +1,91 @@
+.box1{
+    width: 100%;
+    height: 100vh;
+}
+.name1{
+    margin-top: 40px;
+}
+.name2{
+    width: 312px;
+    height: 40px;
+    margin-left: 19px;
+    border-radius: 20px;
+}
+.gender{
+    margin-left: -130px;
+    margin-top: 25px;
+}
+.circle{
+    margin-left: 9px;
+    margin-right: -20px;
+}
+.gender2{
+    margin-left: 32px;
+}
+.age1{
+    margin-top: 40px;
+}
+.age2{
+    width: 312px;
+    height: 40px;
+    margin-left: 65px;
+    border-radius: 20px;
+}
+.pass1{
+    margin-top: 40px;
+}
+.pass2{
+    width: 312px;
+    height: 40px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.uni{
+    margin-top: 20px;
+    margin-left: -211px;
+}
+
+.uni2{
+    margin-left: -312px;
+}
+.select1{
+    width: 407px;
+    height: 40px;
+    margin-left: -16px;
+    border-radius: 20px;
+}
+.email1{
+    margin-top: 0px;
+    margin-left: -40px;
+}
+.email2{
+    width: 312px;
+    height: 40px;
+    margin-left: 26px;
+    border-radius: 20px;
+}
+.phone1{
+    margin-top: 30px;
+    margin-left: -40px;
+}
+.phone2{
+    width: 312px;
+    height: 40px;
+    margin-left: 26px;
+    border-radius: 20px;
+}
+.check{
+    width: 35px;
+    height: 40px;
+    margin-left: -401px;
+    margin-top: 20px;
+}
+.agree{
+    margin-top: -37px;
+}
+.submit{
+    padding: 7px 30px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    color: white;
+}

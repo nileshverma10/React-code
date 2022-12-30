@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    background-color: dodgerblue;
+    width: 100%;
+    height: 50px;
+}
+.margin{
+    margin-top: 10px;
+    
+}
+.margin ul{
+    display: flex;
+    
+}
+.margin ul li{
+    list-style: none;
+    margin-left: 12px;
+    border: 0.5px solid #efe7e7bd;
+    width: 35px;
+    height: 32px;
+    text-align: center;  
+    border-radius: 35px;
+    background: none;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.margin ul li:hover{
+  background-color: white;
+}
+
+.margin ul li:hover a svg{
+    color: dodgerblue;
+  }
+.margin ul li a{
+    color: white;
+    background: none;
+    
+}
+
+.user{
+    margin-left: 700px;
+    margin-top: 5px;
+    color: white;
+    cursor: pointer;
+}
+.login{
+        margin-left: 25px;
+        margin-top: -22px;
+        color: white;
+        cursor: pointer;  
+        text-decoration: none;   
+}
+.user a{
+    text-decoration: none;
+}
+.pencil{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.pencil a{
+    text-decoration: none;
+}
+.register{
+    margin-left: 120px;
+    color: white;
+    text-align: center;
+    margin-top: -22px;
+    text-decoration: none;
+    cursor: pointer;
+}
